@@ -1,10 +1,8 @@
-### Hola a todos👋
-
-<h1 align="center">Hi 👋, I'm Valentina</h1>
+<h1 align="center">Hols a todos👋, I'm Valentina</h1>
 <h3 align="center">A passionate frontend developer from West Africa.</h3>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=orhmo" alt="orhmo" /></a> </p>
+<br>
+<br>
 
 - 🔭 I’m currently working on **building front end projects**
 
@@ -12,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Solidity and web3 projects**
 
-- 🤝 I’m looking for help with **Web3 space**
+- 🤝 I’m looking for help improving in the **Web3 space**
 
 - 👨‍💻 All of my projects are available at [orhmo@github.io](orhmo@github.io)
 
@@ -20,9 +18,9 @@
 
 - 📫 How to reach me **oorhmo@gmail.com**
 
-- 📄 Know about my experiences [check out my portfolio](check out my portfolio)
+- 📄 Know about my experiences [check out my portfolio]
 
-- ⚡ Fun fact **I love a good sleep lol**
+- ⚡ Fun fact **I love a good sleep, lol**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
