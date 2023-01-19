@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **building front end projects**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Python and Nextjs**
 
 - 👯 I’m looking to collaborate on **Solidity and web3 projects**
 
@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [orhmo@github.io](orhmo@github.io)
 
-- 💬 Ask me about **html, css, bootstrap, Tailwind**
+- 💬 Ask me about **html, css, bootstrap, Tailwind, React**
 
 - 📫 How to reach me **oorhmo@gmail.com**
 
