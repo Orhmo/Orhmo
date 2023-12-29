@@ -4,17 +4,17 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on **building front end projects**
+- 🔭 I’m currently working on **building Machine Learning and Data Analytics projects**
 
 - 🌱 I’m currently learning **Python and Nextjs**
 
 - 👯 I’m looking to collaborate on **Solidity and web3 projects**
 
-- 🤝 I’m looking for help improving in the **Web3 space**
+- 🤝 I’m looking for help improving in the **Machine Learning space**
 
 - 👨‍💻 All of my projects are available at [orhmo@github.io](orhmo@github.io)
 
-- 💬 Ask me about **html, css, bootstrap, Tailwind, React**
+- 💬 Ask me about **React, Python, SQL**
 
 - 📫 How to reach me **oorhmo@gmail.com**
 
